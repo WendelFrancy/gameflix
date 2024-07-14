@@ -1,15 +1,15 @@
 import React, { useEffect, useState } from "react";
-import { GlobalStyle } from "./src/components/GlobalStyle";
-import Footer from "./src/components/Footer";
+import { GlobalStyle } from "./components/GlobalStyle";
+import Footer from "./components/Footer";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import Home from "./src/pages/Home/index";
-import NewVideo from "./src/pages/NewVideo";
-import NewCategory from "./src/pages/NewCategory";
-import VideoPlayer from "./src/pages/VideoPlayer";
-import Base from "./src/pages/Base";
-import ScrollToTop from "./src/components/ScrollToTop";
-import NotFound from "./src/pages/NotFound";
-import { getCategoryData, setLocalStorage } from "./src/data";
+import Home from "./pages/Home/index";
+import NewVideo from "./pages/NewVideo";
+import NewCategory from "./pages/NewCategory";
+import VideoPlayer from "./pages/VideoPlayer";
+import Base from "./pages/Base";
+import ScrollToTop from "./components/ScrollToTop";
+import NotFound from "./pages/NotFound";
+import { getCategoryData, setLocalStorage } from "./data";
 
 function App() {
   const [categoryData, setCategoryData] = useState(getCategoryData);
