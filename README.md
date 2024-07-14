@@ -6,7 +6,7 @@ Gameflix é um website desenvolvido com React, projetado para gerenciar cards de
 
 # Link
 
-[Link do Website](https://gameflix-mocha.vercel.app)
+Acesse a [Gameflix](https://gameflix-mocha.vercel.app)!!
 
 ## Funcionalidades
 
