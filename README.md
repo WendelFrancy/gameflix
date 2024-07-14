@@ -2,7 +2,7 @@
 
 Gameflix é um website desenvolvido com React, projetado para gerenciar cards de vídeos do YouTube. O design e a interface foram criados com base nas diretrizes propostas pela equipe do curso Oracle One. Com Gameflix, os usuários podem facilmente criar, editar e excluir cards de vídeos, tornando a administração do conteúdo simples e eficiente.
 
-[Foto do Programa](public/fotofuncionando.jpg)
+![Foto do Programa](public/fotofuncionando.jpg)
 
 ## Funcionalidades
 
